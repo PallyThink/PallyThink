@@ -351,4 +351,5 @@ def xuat(n):
     for i in range(n):
         a[i].show()
 
-
+nhap(1)
+xuat(1)
